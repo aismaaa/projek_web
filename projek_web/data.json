@@ -1,0 +1,72 @@
+[
+    {
+        "universitas": "Universitas Kebangsaan Republik Indonesia",
+        "nama_event": "SEMINAR HMSI",
+        "alamat": "JL.merkurius blok.K no.89",
+        "tanggal": "2025-11-22",
+        "jumlah_orang": "200",
+        "harga_tiket": "100.000",
+        "kategori": "Seminar",
+        "deskripsi": "Seminar ini diselenggarakan oleh Universitas Kebangsaan Republik Indonesia (UKRI) sebagai wadah bagi mahasiswa dan masyarakat umum untuk memperluas wawasan mengenai perkembangan teknologi dan inovasi digital di era modern. Melalui kegiatan ini, peserta akan mendapatkan insight langsung dari para ahli di bidang teknologi informasi, kewirausahaan digital, dan pengembangan inovasi berbasis riset."
+    },
+    {
+        "universitas": "Universitas Kebangsaan Republik Indonesia",
+        "nama_event": "PASARSENI",
+        "alamat": "Jl. Dipenogoro",
+        "tanggal": "2025-11-22",
+        "jumlah_orang": "300",
+        "harga_tiket": "90.000",
+        "kategori": "Workshop",
+        "deskripsi": "Pasar Seni UKRI merupakan ajang tahunan yang menampilkan karya kreatif mahasiswa Universitas Kebangsaan Republik Indonesia dari berbagai bidang seni, seperti lukisan, fotografi, desain, dan kriya. Acara ini menjadi ruang apresiasi dan kolaborasi bagi seniman muda untuk mengekspresikan ide, budaya, dan inovasi dalam bentuk visual yang inspiratif."
+    },
+    {
+        "universitas": "Universitas Kebangsaan Republik Indonesia",
+        "nama_event": "Konser Musik",
+        "alamat": "Jl.Soeta",
+        "tanggal": "2025-11-20",
+        "jumlah_orang": "500",
+        "harga_tiket": "150.000",
+        "kategori": "Festival",
+        "deskripsi": "Festival Konser Musik UKRI adalah acara hiburan kampus yang digelar oleh Universitas Kebangsaan Republik Indonesia sebagai wadah ekspresi dan apresiasi bagi talenta musik muda. Menghadirkan berbagai penampilan dari band lokal hingga bintang tamu spesial, acara ini menjadi momentum kebersamaan, kreativitas, dan semangat positif di lingkungan kampus."
+    },
+    {
+        "universitas": "Universitas Kebangsaan Republik Indonesia",
+        "nama_event": "Workshop Odoo",
+        "alamat": "Jl. Maluku",
+        "tanggal": "2025-12-30",
+        "jumlah_orang": "300",
+        "harga_tiket": "100.000",
+        "kategori": "Seminar",
+        "deskripsi": "Workshop Odoo UKRI diselenggarakan oleh Universitas Kebangsaan Republik Indonesia sebagai pelatihan praktis untuk mengenal dan mengimplementasikan sistem ERP berbasis Odoo. Kegiatan ini bertujuan meningkatkan pemahaman peserta dalam manajemen bisnis modern berbasis teknologi, mulai dari pengelolaan data, keuangan, hingga operasional perusahaan secara terintegrasi."
+    },
+    {
+        "universitas": "Universitas Kebangsaan  Republik Indonesia",
+        "nama_event": "Seminar Akademik",
+        "alamat": "Jl Halimun",
+        "tanggal": "2025-11-15",
+        "jumlah_orang": "200",
+        "harga_tiket": "50.000",
+        "kategori": "Seminar",
+        "deskripsi": "Seminar Akademik UKRI diselenggarakan oleh Universitas Kebangsaan Republik Indonesia sebagai forum ilmiah bagi mahasiswa, dosen, dan peneliti untuk berbagi pengetahuan, hasil penelitian, serta gagasan inovatif di berbagai bidang. Acara ini bertujuan mendorong pengembangan ilmu pengetahuan dan memperkuat budaya akademik yang kreatif, kritis, dan kolaboratif di lingkungan kampus."
+    },
+    {
+        "universitas": "Universitas Kebangsaan Republik Indonesia",
+        "nama_event": "Teater 5 Wajah",
+        "alamat": "Jl BKR",
+        "tanggal": "2025-11-20",
+        "jumlah_orang": "100",
+        "harga_tiket": "100.000",
+        "kategori": "Festival",
+        "deskripsi": "Festival Teater 5 Wajah UKRI merupakan ajang seni pertunjukan yang diselenggarakan oleh Universitas Kebangsaan Republik Indonesia untuk menampilkan karya teater terbaik dari lima kelompok teater mahasiswa. Melalui pementasan ini, peserta mengekspresikan beragam tema kehidupan, budaya, dan nilai kemanusiaan dalam bentuk drama kreatif yang menginspirasi dan menghibur."
+    },
+    {
+        "universitas": "Universitas Kebangsaan Republik Indonesia",
+        "nama_event": "Diesnatalies",
+        "alamat": "Jl. bogor",
+        "tanggal": "2025-12-10",
+        "jumlah_orang": "150",
+        "harga_tiket": "50.000",
+        "kategori": "Event",
+        "deskripsi": "DiesNatalis Universitas Kebangsaan Republik Indonesia (UKRI) merupakan perayaan ulang tahun kampus yang dirangkai dengan berbagai kegiatan akademik, seni, dan hiburan. Acara ini menjadi momen refleksi atas perjalanan UKRI dalam mencetak generasi berprestasi sekaligus ajang mempererat kebersamaan sivitas akademika melalui semangat inovasi dan kebanggaan terhadap almamater."
+    }
+]
